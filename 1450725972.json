@@ -144,7 +144,57 @@
         },
         {
           "title": "It's time to make money.",
-          "body": "Your money was waiting for you, it's time to put it in your pocket.\nClick here and make money!"
+          "body": "Your money was waiting for you, it's time to put it in your pocket."
+        }
+      ]
+    }
+  },
+  "de": {
+    "everyDay": {
+      "items": [
+        {
+          "title": "A pretty penny of the day. Don't be a loser.",
+          "body": "Player Evgen92 today hit the jackpot and withdraw $4782.\nClick here and overplay him!"
+        },
+        {
+          "title": "A pretty penny of the day. Don't be a loser.",
+          "body": "Player Fantom2 today hit the jackpot and withdraw $8192.\nClick here and overplay him!"
+        },
+        {
+          "title": "A pretty penny of the day. Don't be a loser.",
+          "body": "Player Slav666 today hit the jackpot and withdraw $3450.\nClick here and overplay him!"
+        },
+        {
+          "title": "A pretty penny of the day. Don't be a loser.",
+          "body": "Player LordNight today hit the jackpot and withdraw $2980.\nClick here and overplay him!"
+        },
+        {
+          "title": "A pretty penny of the day. Don't be a loser.",
+          "body": "Player Fireman today hit the jackpot and withdraw $5261.\nClick here and overplay him!"
+        },
+        {
+          "title": "A pretty penny of the day. Don't be a loser.",
+          "body": "Player Fredlen92 today hit the jackpot and withdraw $13370.\nClick here and overplay him!"
+        },
+        {
+          "title": "A pretty penny of the day. Don't be a loser.",
+          "body": "Player Guruman today hit the jackpot and withdraw $5032.\nClick here and overplay him!"
+        }
+      ]
+    },
+    "reminder": {
+      "items": [
+        {
+          "title": "Es ist an der Zeit, das Vermögen zu überprüfen!",
+          "body": "Das Glück ist ein Mädchen. Es liebt beharrlich.\nKlicke hier und teile die Beute!"
+        },
+        {
+          "title": "Verpasse deine Chance nicht!",
+          "body": "Während du weg warst, haben viele Spieler die Bank besucht.\nKlicke hier und verdiene Geld!"
+        },
+        {
+          "title": "Es ist an der Zeit, Geld zu verdienen.",
+          "body": "Dein Geld hat auf dich gewartet. Es wird Zeit, es in deine Taschen zu stecken."
         }
       ]
     }
