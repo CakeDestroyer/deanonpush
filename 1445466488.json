@@ -30,7 +30,8 @@
           "title": "Занос дня. А тебе слабо?",
           "body": "Игрок Vladik007 сегодня сорвал куш и вывел 62,087 руб. Самое время рубить бабос.\nЖми сюда и поднимай лавандос!"
         }
-      ]
+      ],
+      "languageCode": "ru"
     },
     "reminder": {
       "items": [
@@ -46,7 +47,8 @@
           "title": "Самое время поднять лавандос.",
           "body": "Деньги стынут, пора переложить их себе в карман.\nЖми сюда и руби бабос!"
         }
-      ]
+      ],
+      "languageCode": "ru"
     }
   },
   "kk": {
@@ -80,7 +82,8 @@
           "title": "Занос дня. А тебе слабо?",
           "body": "Игрок Vladik007 сегодня сорвал куш и вывел 62,087 руб. Самое время рубить бабос.\nЖми сюда и поднимай лавандос!"
         }
-      ]
+      ],
+      "languageCode": "kk"
     },
     "reminder": {
       "items": [
@@ -96,7 +99,8 @@
           "title": "Самое время поднять лавандос.",
           "body": "Деньги стынут, пора переложить их себе в карман.\nЖми сюда и руби бабос!"
         }
-      ]
+      ],
+      "languageCode": "kk"
     }
   },
   "en": {
@@ -130,7 +134,8 @@
           "title": "A pretty penny of the day. Don't be a loser.",
           "body": "Player Guruman today hit the jackpot and withdraw $5032.\nClick here and overplay him!"
         }
-      ]
+      ],
+      "languageCode": "en"
     },
     "reminder": {
       "items": [
@@ -146,7 +151,8 @@
           "title": "It's time to make money.",
           "body": "Your money was waiting for you, it's time to put it in your pocket."
         }
-      ]
+      ],
+      "languageCode": "en"
     }
   },
   "de": {
@@ -180,7 +186,8 @@
           "title": "A pretty penny of the day. Don't be a loser.",
           "body": "Player Guruman today hit the jackpot and withdraw $5032.\nClick here and overplay him!"
         }
-      ]
+      ],
+      "languageCode": "de"
     },
     "reminder": {
       "items": [
@@ -196,7 +203,8 @@
           "title": "Es ist an der Zeit, Geld zu verdienen.",
           "body": "Dein Geld hat auf dich gewartet. Es wird Zeit, es in deine Taschen zu stecken."
         }
-      ]
+      ],
+      "languageCode": "de"
     }
   }
 }
